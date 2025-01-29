@@ -2,7 +2,7 @@
 
 **`Network Architect/Full-Stack Dev/Content Creator`**
 
-I'm a network architect and full-stack developer dedicated to creating secure and efficient systems that empower end-users to achieve autonomy over their technology. I analyze cybercrime in the digital underworld in aims of crime prevention, and enhancing privacy in increasingly interconnected world. With a strong foundation in networking concepts and hands-on experience in designing secure network solutions, I am committed to developing innovative, privacy-oriented solutions in a perpetually expanding threat landscape.
+I'm an IT student dedicated to creating secure and efficient systems that empower end-users to achieve autonomy over their technology. I analyze cybercrime in the digital underworld in aims of crime prevention, and enhancing privacy in increasingly interconnected world. With a strong foundation in networking concepts and hands-on experience in designing secure network solutions, I am committed to developing innovative, privacy-oriented solutions in a perpetually expanding threat landscape.
 
 ### ⚙️  Tech Stack
 
