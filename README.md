@@ -1,8 +1,8 @@
-# 🦉 Pakhair! I'm Saqib.
+# Hi! I'm Saqib.
 
-**`Network Architect/Full-Stack Dev/Content Creator`**
+**`Network Architect/Full-Stack Dev/Cybersecurity Blogger`**
 
-I'm an IT student dedicated to creating secure and efficient systems that empower end-users to achieve autonomy over their technology. I analyze cybercrime in the digital underworld in aims of crime prevention, and enhancing privacy in increasingly interconnected world. With a strong foundation in networking concepts and hands-on experience in designing secure network solutions, I am committed to developing innovative, privacy-oriented solutions in a perpetually expanding threat landscape.
+I'm an IT student at Conestoga College who loves threat analysis and incident response. I have a blog that teaches a growing audience how to defend their systems from emerging threats in an evolving digital landscape. In my spare time, you can find me binge watching Mr. Robot and being yelled at by my entire family when my IPS blocks legitimate IP addresses. I'm always learning more and continuing to grow, and I'd love to contribute to the success of a resilient SOC. 
 
 ### ⚙️  Tech Stack
 
