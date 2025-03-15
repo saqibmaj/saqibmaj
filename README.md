@@ -2,7 +2,7 @@
 
 **`SOC Analyst/Network Engineer`**
 
-I'm an IT student at Conestoga College who loves traffic analysis and incident response.In my spare time, you can find me binge watching Mr. Robot and being yelled at by my entire family when my IPS blocks legitimate IP addresses. I'm always learning more and continuing to grow, and I'd love to contribute to the success of a resilient SOC. 
+I'm an IT student at Conestoga College who loves traffic analysis and incident response. In my spare time, you can find me binge watching Mr. Robot and being yelled at by my entire family when my IPS blocks legitimate IP addresses. I'm always learning more and continuing to grow, and I'd love to contribute to the success of a resilient SOC. 
 
 ### ⚙️  Tech Stack
 
